@@ -1,4 +1,4 @@
-# 🏥 HIPAA-Compliant Healthcare Platform on AWS using Terraform
+#  HIPAA-Compliant Healthcare Platform on AWS using Terraform
 
 ## Project Overview
 
