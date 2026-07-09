@@ -1,4 +1,7 @@
 #  HIPAA-Compliant Healthcare Platform on AWS using Terraform
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple)
+![Security](https://img.shields.io/badge/Security-PCI--DSS%20Aligned-blue)
 
 ## Project Overview
 
