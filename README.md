@@ -1,7 +1,11 @@
 #  HIPAA-Compliant Healthcare Platform on AWS using Terraform
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple)
-![Security](https://img.shields.io/badge/Security-PCI--DSS%20Aligned-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-Security%20Aligned-2E8B57)
+![Security](https://img.shields.io/badge/Security-Least%20Privilege-blue)
+![Encryption](https://img.shields.io/badge/Encryption-KMS-success)
+![Database](https://img.shields.io/badge/Database-Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Project Overview
 
