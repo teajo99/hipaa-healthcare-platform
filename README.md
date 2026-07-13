@@ -30,33 +30,7 @@ Rather than simply deploying infrastructure, this project focuses on designing a
 # Architecture
 
 ![image alt](https://github.com/teajo99/hipaa-healthcare-platform/blob/e11c818b405e9c8f885296775f41fc9e1a1b0e19/screenshots/HIPPA.gif)
-                     Internet
-                         │
-                         ▼
-            Application Load Balancer
-                         │
-                         ▼
-              EC2 Application Server
-                 (Private Subnet)
-                         │
-                         ▼
-              Amazon RDS PostgreSQL
-                 (Private Subnet)
-
-
-Security Services
-
-• IAM Roles & Policies
-• AWS KMS
-• AWS Secrets Manager
-• Amazon S3
-• AWS CloudTrail
-• AWS Config
-• Amazon CloudWatch
-• AWS Backup
-```
-
----
+                  
 
 # AWS Services Used
 
