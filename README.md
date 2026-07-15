@@ -29,7 +29,7 @@ Rather than simply deploying infrastructure, this project focuses on designing a
 
 # Architecture
 
-![image alt](https://github.com/teajo99/hipaa-healthcare-platform/blob/e11c818b405e9c8f885296775f41fc9e1a1b0e19/screenshots/HIPPA.gif)
+![image alt](https://github.com/teajo99/hipaa-healthcare-platform/blob/e16a2aa402b3e09e349ead92ac508a0cfefb557c/HIPPA%20DIAGRAM.gif)
                   
 
 # AWS Services Used
